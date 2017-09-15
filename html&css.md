@@ -27,3 +27,4 @@ _Requirements_:
 [Udacity Free Intro to HTML & CSS]: <https://www.udacity.com/course/intro-to-html-and-css--ud304>
 [Sublime Text]: <http://www.sublimetext.com/>
 [Atom]: <https://atom.io/>
+[Google Chrome]: <https://www.google.com/intl/en/chrome/browser/>
