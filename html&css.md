@@ -17,6 +17,9 @@ __Objective__: Apply your knowledge and make some projects:
 _Requirements_:
     * Download a text editor [Sublime Text] or [Atom].
     * Download and install [Google Chrome], which is the browser we’ll be exploring developer tools with in this course.
+  
+#### __Phase 3__:
+__Objective__: Build your own project using the tools you learned in the last two phases. The goal is to setup a project having an index.html page, css folder and stylec.css, img folder and images. You can use your own framework or use a popular framework like [Bootstraps]. Share and get feedback in our closed [Facebook study group]. 
     
     
 [Codecademy Learn HTML]: <https://www.codecademy.com/learn/learn-html>
@@ -28,3 +31,5 @@ _Requirements_:
 [Sublime Text]: <http://www.sublimetext.com/>
 [Atom]: <https://atom.io/>
 [Google Chrome]: <https://www.google.com/intl/en/chrome/browser/>
+[Facebook study group]: <https://www.facebook.com/groups/MilSpouseCodersStudyGroup/>
+[Bootstraps]: <http://getbootstrap.com/>
