@@ -8,14 +8,14 @@
 - Udacity - [Linux Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595) (1 week)
 - Udacity- [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123) ( 4 weeks)
 
---
+
 
 ## Phase 2
 - 1-3 contributions to OS
 - [First Timers Only](http://www.firsttimersonly.com/)
 - [MilSpouseCoders Git](https://github.com/milspousecoders)
 
---
+
 
 ## Phase 3
 - [CodeSchool-Hello, Code School](https://www.codeschool.com/projects/hello-code-school) ( 30 minutes)
