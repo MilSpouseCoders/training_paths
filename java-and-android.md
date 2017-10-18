@@ -5,6 +5,7 @@
 
 ## Phase 1
 Learn Java Basics (Skill Level: Beginnger)
+- Codecademy [Learn Java](https://www.codecademy.com/learn/learn-java)(4 hours)
 - Udacity [Java Programming Basics](https://www.udacity.com/course/java-programming-basics--ud282)(6 weeks)
 - Udacity [Learn object oriented programming](https://www.udacity.com/course/Object-Oriented-Programming-in-Java)(4 weeks)
 
