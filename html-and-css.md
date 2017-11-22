@@ -17,8 +17,11 @@ __Objective__: Apply your knowledge and make some projects:
 _Requirements_:
     * Download a text editor [Sublime Text] or [Atom].
     * Download and install [Google Chrome], which is the browser we’ll be exploring developer tools with in this course.
-  
+    
 #### __Phase 3__:
+__Objective__: Complete the [Web Design/HTML Challenges]. Complete all eight challenges to solidify your learning with HTML. These challenges builds on the skills you have learned. 
+ 
+#### __Phase 4__:
 __Objective__: Build your own project using the tools you learned in the last two phases. The goal is to setup a project having an index.html page, css folder and stylec.css, img folder and images. You can use your own framework or use a popular framework like [Bootstraps]. Share and get feedback in our closed [Facebook study group]. 
     
     
@@ -33,3 +36,4 @@ __Objective__: Build your own project using the tools you learned in the last tw
 [Google Chrome]: <https://www.google.com/intl/en/chrome/browser/>
 [Facebook study group]: <https://www.facebook.com/groups/MilSpouseCodersStudyGroup/>
 [Bootstraps]: <http://getbootstrap.com/>
+[Web Design/HTML Challenges]: <https://en.wikiversity.org/wiki/Web_Design/HTML_Challenges>
