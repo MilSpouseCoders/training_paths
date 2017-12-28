@@ -6,6 +6,7 @@
 ## Phase 1
 Learn Ruby Basics
 - Codecademy [Learn Ruby](https://www.codecademy.com/catalog/language/ruby) (10 hours)
+- Launch School [Introduction to Programming with Ruby](https://launchschool.com/books/ruby)
 
 ## Phase 2
 Learn fundamental developer tools
