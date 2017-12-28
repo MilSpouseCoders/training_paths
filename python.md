@@ -21,3 +21,4 @@ Build Python Projects
 - [Google's Python Class](https://developers.google.com/edu/python/?hl=en)
 - [Learn Python the Hard Way](https://learnpythonthehardway.org/)
 - [The Python Challenge](http://www.pythonchallenge.com/index.php)
+- [Solo Learn App](https://www.sololearn.com/Play/Python/#)
